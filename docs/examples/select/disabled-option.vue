@@ -17,7 +17,7 @@ const value = ref('')
 const options = [
   {
     value: 'Option1',
-    label: 'Option1',
+    label: 'Option122',
   },
   {
     value: 'Option2',
